@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<MovementPerformed>
+  <GUID>46D4B587-5177-4722-96C5-2C8B749F23E8</GUID>
+  <LiftedPosition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="SpreaderPosition">
+    <Gantry>1571.350000</Gantry>
+    <Hoist>50.240000</Hoist>
+    <Trolley>92.420000</Trolley>
+    <SpreaderSize>40</SpreaderSize>
+  </LiftedPosition>
+  <DroppedPosition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="SpreaderPosition">
+    <Gantry>1571.340000</Gantry>
+    <Hoist>109.760000</Hoist>
+    <Trolley>-120.390000</Trolley>
+    <SpreaderSize>40</SpreaderSize>
+  </DroppedPosition>
+</MovementPerformed>
